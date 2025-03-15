@@ -8,8 +8,7 @@ Documentation on the sound formats in Hot Wheels - Stunt Track Driver
 These appear to contain the music for each track, import settings currently unknown
   
 
-
-      
+-------------------------------------------------------------------
 **.tad**
   
 Import as raw data with the following settings
@@ -25,8 +24,8 @@ Start offset: 0 bytes
 Amount to import: 100%
   
 Sample rate: 16000hz
+-------------------------------------------------------------------
   
-
     
 **.tid**
   
